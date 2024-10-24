@@ -173,8 +173,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
       </set>
     </attachedChunks>
   </component>
@@ -191,6 +191,7 @@
       <workItem from="1723762096862" duration="5150000" />
       <workItem from="1724364469032" duration="1670000" />
       <workItem from="1724366167138" duration="3264000" />
+      <workItem from="1727375874115" duration="2964000" />
     </task>
     <task id="LOCAL-00001" summary="Criação do projeto e exemplos da aula 1">
       <option name="closed" value="true" />

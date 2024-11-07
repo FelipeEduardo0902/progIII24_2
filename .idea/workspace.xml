@@ -4,27 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31700003-f190-48e9-a46a-f720100e877a" name="Changes" comment="Criação do projeto e exemplos da aula 1">
-      <change afterPath="$PROJECT_DIR$/src/aula04/exemploMatrizes/Exemplo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/exemploMatrizes/Exemplo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/exemploMatrizes/Exemplo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/exemploMatrizes/Exemplo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/exemplosVetores/Exemplo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/exemplosVetores/Exemplo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/exemplosVetores/Exemplo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/exemplosVetores/Exemplo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/exemplosVetores/Exemplo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/exemplosVetores/Exemplo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/exemplosVetores/Exemplo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/exercicios/Exercicio13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/exercicios/Exercicio14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/exercicios/Exercicio14Op2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/exercicios/Exercicio15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/exercicios/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/exercicios/Exercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/exercicios/Exercicio9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/numerosAleatorios/Exemplo1.java" afterDir="false" />
+    <list default="true" id="31700003-f190-48e9-a46a-f720100e877a" name="Changes" comment="Exemplos POO">
+      <change afterPath="$PROJECT_DIR$/src/aula08/PosicaoMapa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula08/Questao10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula08/Questao9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula11/exemploFinal/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula11/exemploFinal/ExemploAtributo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula11/exemploFinal/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula11/exemploFinal/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula11/exemploHeranca/Colaborador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula11/exemploHeranca/Engenheiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula11/exemploHeranca/Medico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula11/exemploHeranca/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula11/exemploOverload/Operacoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula11/exemploOverload/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula11/exemploOverride/Colaborador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula11/exemploOverride/Engenheiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula11/exemploOverride/Medico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula11/exemploOverride/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula11/revisao/Pessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula10/exemploEncapsulamento/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula10/exemploEncapsulamento/Banco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula10/exemploEncapsulamento/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula10/exemploEncapsulamento/Conta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,43 +65,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Exemplo1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exemplo2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exemplo3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio12.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.aula02.Exemplo1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/rodri/IdeaProjects/progIII24_2/progIII24_2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Banco.executor": "Run",
+    "Application.Exemplo1.executor": "Run",
+    "Application.Exemplo2.executor": "Run",
+    "Application.Exemplo3.executor": "Run",
+    "Application.Exercicio03.executor": "Run",
+    "Application.Exercicio05.executor": "Run",
+    "Application.Exercicio06.executor": "Run",
+    "Application.Exercicio07.executor": "Run",
+    "Application.Exercicio08.executor": "Run",
+    "Application.Exercicio09.executor": "Run",
+    "Application.Exercicio1.executor": "Run",
+    "Application.Exercicio11.executor": "Run",
+    "Application.Exercicio12.executor": "Run",
+    "Application.Exercicio13.executor": "Run",
+    "Application.Exercicio15.executor": "Run",
+    "Application.Exercicio2.executor": "Run",
+    "Application.Exercicio3.executor": "Run",
+    "Application.Exercicio4.executor": "Run",
+    "Application.Exercicio5.executor": "Run",
+    "Application.Exercicio6.executor": "Run",
+    "Application.Exercicio7.executor": "Run",
+    "Application.Exercicio8.executor": "Run",
+    "Application.Principal.executor": "Run",
+    "Application.Questao10.executor": "Run",
+    "Application.Questao9.executor": "Run",
+    "Application.Teste.executor": "Run",
+    "Application.ValidarLetra.executor": "Run",
+    "Application.aula02.Exemplo1.executor": "Run",
+    "Application.aula05.exemploOO.aluno.Principal.executor": "Run",
+    "Application.aula11.exemploOverride.Teste.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/rodri/IdeaProjects/progII63_2_bd",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Exercicio15">
-    <configuration name="Exercicio12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula02.exercicios.Exercicio12" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rodri\IdeaProjects\progIII24_2\src\aula11\exemploOverride" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.aula11.exemploOverride.Teste">
+    <configuration name="Banco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula10.exemploEncapsulamento.Banco" />
       <module name="progIII24_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula02.exercicios.*" />
+          <option name="PATTERN" value="aula10.exemploEncapsulamento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula02.exercicios.Exercicio13" />
+    <configuration name="Questao9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula08.Questao9" />
       <module name="progIII24_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula02.exercicios.*" />
+          <option name="PATTERN" value="aula08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula02.exercicios.Exercicio14" />
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula11.exemploOverload.Teste" />
       <module name="progIII24_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula02.exercicios.*" />
+          <option name="PATTERN" value="aula11.exemploOverload.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula04.exercicios.Exercicio15" />
+    <configuration name="aula05.exemploOO.aluno.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula05.exemploOO.aluno.Principal" />
       <module name="progIII24_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula04.exercicios.*" />
+          <option name="PATTERN" value="aula05.exemploOO.aluno.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula02.exercicios.Exercicio8" />
+    <configuration name="aula11.exemploOverride.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula11.exemploOverride.Teste" />
       <module name="progIII24_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula02.exercicios.*" />
+          <option name="PATTERN" value="aula11.exemploOverride.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,19 +184,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio15" />
-        <item itemvalue="Application.Exercicio14" />
-        <item itemvalue="Application.Exercicio13" />
-        <item itemvalue="Application.Exercicio12" />
-        <item itemvalue="Application.Exercicio8" />
+        <item itemvalue="Application.aula11.exemploOverride.Teste" />
+        <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.Banco" />
+        <item itemvalue="Application.aula05.exemploOO.aluno.Principal" />
+        <item itemvalue="Application.Questao9" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
-        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
       </set>
     </attachedChunks>
   </component>
@@ -191,7 +213,22 @@
       <workItem from="1723762096862" duration="5150000" />
       <workItem from="1724364469032" duration="1670000" />
       <workItem from="1724366167138" duration="3264000" />
-      <workItem from="1727375874115" duration="2964000" />
+      <workItem from="1725274388209" duration="296000" />
+      <workItem from="1726180656035" duration="8181000" />
+      <workItem from="1726227330577" duration="93000" />
+      <workItem from="1727367061178" duration="696000" />
+      <workItem from="1727394584761" duration="2527000" />
+      <workItem from="1727437143236" duration="48000" />
+      <workItem from="1727476447074" duration="298000" />
+      <workItem from="1727693016814" duration="21000" />
+      <workItem from="1727829677431" duration="984000" />
+      <workItem from="1727865937490" duration="87000" />
+      <workItem from="1727995111959" duration="830000" />
+      <workItem from="1728041912966" duration="3384000" />
+      <workItem from="1728993411597" duration="273000" />
+      <workItem from="1729075789014" duration="58000" />
+      <workItem from="1729205408911" duration="5739000" />
+      <workItem from="1729251166068" duration="753000" />
     </task>
     <task id="LOCAL-00001" summary="Criação do projeto e exemplos da aula 1">
       <option name="closed" value="true" />
@@ -201,7 +238,47 @@
       <option name="project" value="LOCAL" />
       <updated>1723166716136</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Correção dos exercícios de seleção e repetição">
+      <option name="closed" value="true" />
+      <created>1725018630684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725018630684</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exemplos vetores">
+      <option name="closed" value="true" />
+      <created>1725018737603</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725018737603</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Exemplos matrizes">
+      <option name="closed" value="true" />
+      <created>1725018747212</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725018747212</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Atualização do exercício 3">
+      <option name="closed" value="true" />
+      <created>1726190421926</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726190421926</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Exemplos POO">
+      <option name="closed" value="true" />
+      <created>1726190433738</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726190433738</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,7 +286,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criação do projeto e exemplos da aula 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação do projeto e exemplos da aula 1" />
+    <MESSAGE value="Correção dos exercícios de seleção e repetição" />
+    <MESSAGE value="Exemplos vetores" />
+    <MESSAGE value="Exemplos matrizes" />
+    <MESSAGE value="Atualização do exercício 3" />
+    <MESSAGE value="Exemplos POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exemplos POO" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
